@@ -1,3 +1,3 @@
-module github.com/greengypsy/my_website
+module github.com/greengypsy/my-favourite-things
 
 go 1.19

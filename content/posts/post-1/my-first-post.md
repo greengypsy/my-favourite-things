@@ -1,8 +1,7 @@
 ---
 title: "Building my first website"
 date: 2022-12-11T15:04:59+10:30
-draft: true
-image: swing-up.png
+draft: false
 omit_header_text: true
 ---
 
