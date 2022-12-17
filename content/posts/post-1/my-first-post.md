@@ -2,6 +2,8 @@
 title: "Building my first website"
 date: 2022-12-11T15:04:59+10:30
 draft: true
+image: swing-up.png
+omit_header_text: true
 ---
 
 ## Wanting to create a website
@@ -11,8 +13,6 @@ Have you ever wanted to create your own website?
 Don't want to rely on Wordpress and Squarespace but don't want to completely build it from scratch?
 
 Me too! So, I've decided to create a website using Hugo.
-
-![forehand-swing](swing-up.png)
 
 ## Why I'm using Hugo
 
