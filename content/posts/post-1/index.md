@@ -5,7 +5,12 @@ draft: false
 omit_header_text: true
 description: Learn about why I've decided to navigate the woods of web development.
 post_image: "woods.png"
-file_path: "posts/post-1"
+post_image_caption: I'm navigating the woods of web development
+quote: Not all who wander are lost 
+quoter: J.R.R Tolkien
+quote_location: The Fellowship of the Ring
+show_reading_time: true
+tags: ["create website", "create", "website"]
 ---
 
 ## Wanting to create a website
