@@ -2,5 +2,6 @@ title = "Home"
 baseURL = "https://gohugo-theme-ananke.pages.dev"
 languageCode = "en-us"
 theme = "ananke"
+googleAnalytics = "G-8YKC23ZR15"
 [params]
     custom_css = ["_code.css","_styles.css"]
