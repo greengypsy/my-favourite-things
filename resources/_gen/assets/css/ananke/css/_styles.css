@@ -1,0 +1,75 @@
+/* Put your custom styles here and run `npm start` from the "src" directory on */
+
+#TableOfContents ul li {
+  margin-bottom: 1em;
+}
+
+.post-image {
+  position: relative;
+  padding-top: 2.5em;
+  padding-right: 1em;
+  padding-bottom: 0.5em;
+  margin-right: 1em;
+}
+
+.column {
+  flex: 70%;
+}
+
+.post-image {
+  flex: 30%;
+}
+
+.lh-copy blockquote {
+  display: block;
+  font-size: .875em;
+  margin-left: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border-left: 4px solid #ccc;
+  padding-left: 1rem;
+
+}
+
+.nested-links a{
+  overflow-wrap: break-word;
+}
+
+.quote figcaption,
+.quote blockquote {
+  padding: 0.5em;
+}
+
+.quote figcaption {
+  margin-left: -3em;
+}
+
+blockquote {
+  font-size: 2em;
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin-left: -40px;
+  quotes: "\201C""\201D""\2018""\2019";
+  font-family: Blanco,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+  font-style: italic;
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+blockquote:after {
+  color: #ccc;
+  content: close-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-left: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
