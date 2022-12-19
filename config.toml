@@ -1,5 +1,6 @@
 title = "Home"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+# baseURL = "https://gohugo-theme-ananke.pages.dev"
+baseURL = "https://greengypsy.github.io/my-favourite-things/"
 languageCode = "en-us"
 theme = "ananke"
 googleAnalytics = "G-8YKC23ZR15"

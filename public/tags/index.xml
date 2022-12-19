@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Home</title>
+    <link>https://gohugo-theme-ananke.pages.dev/tags/</link>
+    <description>Recent content in Tags on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Dec 2022 15:04:59 +1030</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>create</title>
+      <link>https://gohugo-theme-ananke.pages.dev/tags/create/</link>
+      <pubDate>Sun, 11 Dec 2022 15:04:59 +1030</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/tags/create/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>create website</title>
+      <link>https://gohugo-theme-ananke.pages.dev/tags/create-website/</link>
+      <pubDate>Sun, 11 Dec 2022 15:04:59 +1030</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/tags/create-website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>website</title>
+      <link>https://gohugo-theme-ananke.pages.dev/tags/website/</link>
+      <pubDate>Sun, 11 Dec 2022 15:04:59 +1030</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/tags/website/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,5 @@ description: "A technical writing blog by Christina Kumar"
 theme_version: '2.8.2'
 cascade:
   featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-
-outputs:
-- html
-- rss
-- json
 ---
 
