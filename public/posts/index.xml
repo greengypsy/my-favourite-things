@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Home</title>
-    <link>https://gohugo-theme-ananke.pages.dev/posts/</link>
+    <link>https://greengypsy.github.io/my-favourite-things/posts/</link>
     <description>Recent content in Posts on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://greengypsy.github.io/my-favourite-things/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Becoming a technical writer</title>
-      <link>https://gohugo-theme-ananke.pages.dev/posts/post-2/</link>
+      <link>https://greengypsy.github.io/my-favourite-things/posts/post-2/</link>
       <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://gohugo-theme-ananke.pages.dev/posts/post-2/</guid>
+      <guid>https://greengypsy.github.io/my-favourite-things/posts/post-2/</guid>
       <description>What is technical writing? Technical writing is the art of translating complex topics in simple terms, usually in a written format. Technical writers create all sorts of material such as:
 User manuals Quick start guides Reports Presentations Papers Technical writers work in many different sectors from mining and manufacturing, to IT and the public sector.
 What sparked my interest in technical writing Even in my uni days, I was always interested in explaining technology and technical concepts at a high level.</description>
@@ -20,10 +20,10 @@ What sparked my interest in technical writing Even in my uni days, I was always 
     
     <item>
       <title>Building my first website</title>
-      <link>https://gohugo-theme-ananke.pages.dev/posts/post-1/</link>
+      <link>https://greengypsy.github.io/my-favourite-things/posts/post-1/</link>
       <pubDate>Sun, 11 Dec 2022 15:04:59 +1030</pubDate>
       
-      <guid>https://gohugo-theme-ananke.pages.dev/posts/post-1/</guid>
+      <guid>https://greengypsy.github.io/my-favourite-things/posts/post-1/</guid>
       <description>Wanting to create a website Have you ever wanted to create your own website?
 Don&amp;rsquo;t want to rely on Wordpress and Squarespace but don&amp;rsquo;t want to completely build it from scratch?
 Me too! So, I&amp;rsquo;ve decided to create a website using Hugo.
