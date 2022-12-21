@@ -10,6 +10,7 @@ quote: Sweet life continues in the breeze, in the golden fields.
 quoter: Jack Kerouac
 quote_location: Book of Sketches
 show_reading_time: true
+tags: ['technical writing', 'working as a technical writer']
 ---
 
 ## What is technical writing?

@@ -23,6 +23,28 @@ pre {
   position: relative;
 }
 
+h1.f2 {
+  color: white !important;
+  font-weight: bold;
+  font-family: Helvetica, sans-serif, Arial;
+}
+
+/*https://codepen.io/ChrisMla/pen/jWMLWY*/
+
+img.site-logo {
+  animation: site-logo ease-in-out 1s infinite alternate;
+  width: 5rem;
+  position: absolute;
+}
+
+.site-logo:after{
+  transform: rotate(45deg);
+}
+
+@keyframes site-logo {
+  0% { transform: rotate(12deg); }
+  100% { transform: rotate(-12deg); }
+}
 
 
 

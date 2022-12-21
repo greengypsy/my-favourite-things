@@ -33,7 +33,9 @@ For those of you like me, who understand HTML and CSS code, this is great news b
 
 As a technical writer by trade, I am passionate about three things - learning, sharing and delivering easy-to-understand content. 
 
-To be a good technical writer, I know you don't have to be able to create websites. But it is a handy skill to learn, and as I develop my craft, I will share the lessons I've learnt along the way. 
+This blog will feature some of my favourite tools - some old and some newly discovered - and how to use them. 
+
+Bare with me - I've never created a website before on my own, so I have a lot of learning to do. But as I grow, so too will the website. 
 
 
 

@@ -6,3 +6,5 @@ theme = "ananke"
 googleAnalytics = "G-8YKC23ZR15"
 [params]
     custom_css = ["_code.css","_styles.css"]
+    background_color_class = "bg-green"
+    logo = "android-chrome-512x512.png"
