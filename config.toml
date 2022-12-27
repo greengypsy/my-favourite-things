@@ -1,9 +1,13 @@
 title = "Home"
-# baseURL = "https://gohugo-theme-ananke.pages.dev"
 baseURL = "https://greengypsy.github.io/my-favourite-things/"
 languageCode = "en-us"
-theme = "ananke"
 googleAnalytics = "G-8YKC23ZR15"
+theme = "ananke"
+ignoreErrors = ["error-disable-taxonomy"]
+disableKinds = ["taxonomy"]
+[taxonomies]
+    category = "categories"
+    tags = "tags"
 [params]
     custom_css = ["_code.css","_styles.css"]
     background_color_class = "bg-green"

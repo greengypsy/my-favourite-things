@@ -1,3 +1,3 @@
-module github.com/greengypsy/my-favourite-things
+module github.com/theNewDynamic/gohugo-theme-ananke
 
 go 1.19

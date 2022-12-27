@@ -11,6 +11,12 @@
     <loc>https://greengypsy.github.io/my-favourite-things/posts/</loc>
     <lastmod>2022-12-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://greengypsy.github.io/my-favourite-things/tags/technical-writing/</loc>
+    <lastmod>2022-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://greengypsy.github.io/my-favourite-things/tags/working-as-a-technical-writer/</loc>
+    <lastmod>2022-12-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://greengypsy.github.io/my-favourite-things/posts/post-1/</loc>
     <lastmod>2022-12-11T15:04:59+10:30</lastmod>
   </url><url>
@@ -20,16 +26,13 @@
     <loc>https://greengypsy.github.io/my-favourite-things/tags/create-website/</loc>
     <lastmod>2022-12-11T15:04:59+10:30</lastmod>
   </url><url>
-    <loc>https://greengypsy.github.io/my-favourite-things/tags/</loc>
-    <lastmod>2022-12-11T15:04:59+10:30</lastmod>
-  </url><url>
     <loc>https://greengypsy.github.io/my-favourite-things/tags/website/</loc>
     <lastmod>2022-12-11T15:04:59+10:30</lastmod>
   </url><url>
     <loc>https://greengypsy.github.io/my-favourite-things/about-me/</loc>
   </url><url>
-    <loc>https://greengypsy.github.io/my-favourite-things/categories/</loc>
-  </url><url>
     <loc>https://greengypsy.github.io/my-favourite-things/contact/</loc>
+  </url><url>
+    <loc>https://greengypsy.github.io/my-favourite-things/posts-by-date/</loc>
   </url>
 </urlset>

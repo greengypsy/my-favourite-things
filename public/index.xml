@@ -39,7 +39,7 @@ In other words, Hugo is a software application that lets you generate a HTML web
       <guid>https://greengypsy.github.io/my-favourite-things/about-me/</guid>
       <description>I am a technical writer from Adelaide with a combined interest of writing and technology.
 Here is a list of projects I have worked on as a technical writer:
-Restructuring the Maptek Evolution documentation. Creating a Quick Start Guide for Maptek DomainMCF. Profile writing for the Australian Public Service Commission (not yet published). Contributing to the successful 2022 Google Season of Docs OpenMS project. If you would like to work together on a technical writing project, get in touch today</description>
+Restructuring the Maptek Evolution documentation. Creating a Quick Start Guide for Maptek DomainMCF. Profile writing for the Australian Public Service Commission (not yet published). Contributing to the successful 2022 Google Season of Docs OpenMS project. If you have any questions, get in touch today</description>
     </item>
     
     <item>
@@ -48,9 +48,18 @@ Restructuring the Maptek Evolution documentation. Creating a Quick Start Guide f
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://greengypsy.github.io/my-favourite-things/contact/</guid>
-      <description>Want to collaborate or have any project ideas? Feel free to reach out to me using the form below.
+      <description>If you have any questions, feel free to reach out to me using the form below.
 I will try to get back to you as soon as possible.
 Your Name Email Address An email address is required. Message </description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://greengypsy.github.io/my-favourite-things/posts-by-date/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greengypsy.github.io/my-favourite-things/posts-by-date/</guid>
+      <description></description>
     </item>
     
   </channel>

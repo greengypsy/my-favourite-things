@@ -1,18 +1,25 @@
 function set_logo_position(){
-    var h2_collection = document.getElementsByClassName("fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4");
+    var h2_collection = document.getElementsByClassName("supporting-text");
 
     var h2 = h2_collection[0];
 
     var logo_collect = document.getElementsByClassName("site-logo");
 
     var logo = logo_collect[0];
-
-    logo.style.left = h2.offsetLeft;
-
-    console.log(logo.offsetLeft);
-    console.log(h2.offsetLeft);
+    
+    if (window.innerWidth > 950){
+        logo.style.left = h2.offsetLeft - logo.clientWidth + "px";
+        logo.style.top = h2.offsetTop + "px";
+    } else {
+        logo.style.left = h2.offsetLeft + "px";
+        logo.style.top = h2.offsetTop + logo.clientWidth/2 + "px";
+    }
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-    set_logo_position;
+    set_logo_position();
   });
+
+window.addEventListener('resize', function(){
+    set_logo_position();
+});

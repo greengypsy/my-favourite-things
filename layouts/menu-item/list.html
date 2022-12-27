@@ -1,0 +1,31 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+{{ define "main" }}
+
+<div class="flex-l mt2 mw8 center">
+    <article class="center cf pv5 ph3 ph4-ns mw7">
+      <header>
+        <h1 class="f1">
+          {{ .Title }}
+        </h1>
+      </header>
+      <div class="nested-copy-line-height lh-copy f4 nested-links {{ $.Param "text_color" | default "mid-gray" }}">
+        {{ range .Site.RegularPages.GroupByDate "January 2006" }}
+            <ul>
+              {{if (gt (len (where .Pages ".Params.date" "!=" nil) ) 0 ) }}
+              <li>               
+                {{ .Key }}
+                  {{ range .Pages }}
+                  <ul>
+                    <li><a href="{{ .Permalink }}">{{ .Title }}</a>, {{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006")  }}</li>
+                  </ul>
+                  {{ end }}
+                {{ end }}
+              </li>
+              {{ else }}    
+            </ul>
+        {{- end -}}
+      </div>
+    </article>
+  </div>
+
+{{ end }}
